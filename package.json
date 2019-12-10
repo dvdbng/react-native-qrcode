@@ -19,6 +19,7 @@
   "homepage": "https://github.com/dvdbng/react-native-qrcode-image#readme",
   "dependencies": {
     "prop-types": "^15.5.10",
-    "qr.js": "0.0.0"
+    "qr.js": "0.0.0",
+     "buffer": "^5.4.3"
   }
 }
